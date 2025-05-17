@@ -1,4 +1,4 @@
 # ayush-git-github
 This is my learning class
 <br>
-Author - Ayushman Singh
+Author - Ayushman (Dipu)
